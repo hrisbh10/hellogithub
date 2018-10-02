@@ -1,7 +1,7 @@
 #include<iostream>
 #include<vector>
 using namespace std;
-
+//To Calculate extra long factorials
 int main(){
  vector<int> f,c;
  int i,k,n;
